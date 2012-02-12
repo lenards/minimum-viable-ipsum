@@ -45,4 +45,4 @@ If new terms are needed, edit this file.
 
 
 
-Powered by (http://twitter.com/dchbot)[@dchbot]
+Powered by [@dchbot](http://twitter.com/dchbot)
