@@ -43,3 +43,6 @@ The terminology used is in the lexicon file, `lexicon.ndy`.
 
 If new terms are needed, edit this file. 
 
+
+
+Powered by (http://twitter.com/dchbot)[@dchbot]
